@@ -1,6 +1,6 @@
-## 👋Hi there
+### 👋Hi there
 
-## 💪Skills
+### 💪Skills
 #### Languages
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&color=239120&logoColor=white&labelColor=239120"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&color=00599C&logoColor=white&labelColor=00599C"/>
 
@@ -10,7 +10,7 @@
 </br>
 </br>
 
-## ✍Statistics
+### ✍Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjunje&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjunje&layout=compact&theme=tokyonight)
 
