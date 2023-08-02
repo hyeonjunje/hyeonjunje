@@ -2,8 +2,7 @@
 
 ### Skills
 ##### Languages
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&color=239120&logoColor=white&labelColor=239120"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&color=00599C&logoColor=white&labelColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&color=239120&logoColor=white&labelColor=239120"/>" " <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&color=00599C&logoColor=white&labelColor=00599C"/>
 
 ##### Tools
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&color=FFFFFF&logoColor=white&labelColor=FFFFFF"/> 
